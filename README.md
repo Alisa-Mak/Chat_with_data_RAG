@@ -24,3 +24,9 @@ By the end of this example, you will have a deep understanding of how to develop
 - **Retrieving Data Using Embeddings and Vector Stores:** Understand how to use embeddings and vector stores for effective data retrieval.
 - **Developing a Query-Processing Workflow:** Develop a robust workflow for processing user queries and retrieving relevant information.
 - **Tracking the ChatGPT Conversation and Data Selection:** Learn how to track conversation history and select appropriate data for interaction.
+
+![image](https://github.com/user-attachments/assets/075a7511-8eff-4277-8a85-f3d52d1c18ba)
+
+![image (1)](https://github.com/user-attachments/assets/2db970aa-3b88-4994-a03f-a33a94bc3779)
+
+
